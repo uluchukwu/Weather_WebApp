@@ -25,7 +25,7 @@ The Weather Web App is a simple web application that allows users to check the w
 To use the OpenWeatherMap API, you need to sign up on their website and obtain an API key. Once you have the API key, replace the `apiKey` variable value in the script with your own API key.
 
 ## Credits
-This project was created by [Your Name]. It utilizes the OpenWeatherMap API for retrieving weather data.
+This project was created by Sopuluchukwu . It utilizes the OpenWeatherMap API for retrieving weather data.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
